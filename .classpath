@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/rohitjoshi/Desktop/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.activation-2.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.el-api-4.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.servlet-api-5.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.servlet.jsp.jstl-2.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.servlet.jsp.jstl-api-2.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.xml.bind-api-3.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="movieheram">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <dependent-module archiveName="mysql-connector-j-9.3.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/rohitjoshi/Desktop/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+        <dependent-module archiveName="jakarta.activation-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.activation-2.0.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jakarta.servlet.jsp.jstl-api-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.servlet.jsp.jstl-api-2.0.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jakarta.servlet-api-5.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.servlet-api-5.0.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jakarta.xml.bind-api-3.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.xml.bind-api-3.0.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jakarta.el-api-4.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.el-api-4.0.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jakarta.servlet.jsp.jstl-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/rohitjoshi/Documents/UNI/2ND YEAR/Sem 4/Advance Programming and Technology/Advanced Programming and Technologies/Week 8 - Introduction to JSTL/Tutorial/Java Jar Files/jar_files/jakarta.servlet.jsp.jstl-2.0.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                        
+        
+        <property name="context-root" value="movieheram"/>
+                        
+        
+        <property name="java-output-path" value="/movieheram/build/classes"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
