@@ -1,1 +1,21 @@
-/build/
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.svg
+
+# Ignore video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+
+# Optional: ignore entire image and video folders if applicable
+src/main/webapp/resources/images/
+src/main/webapp/resources/video/
+
