@@ -1,5 +1,5 @@
 # 🎬 MovieHeram
-MovieHeram is a Java-based mini streaming web application that provides users with an intuitive platform to browse, watch, and manage movies and animations. Built with Java Servlets, JSP, MySQL/MongoDB, and modern frontend technologies, MovieHeram delivers a lightweight yet dynamic streaming experience with user authentication, admin controls, & rich media management features.
+MovieHeram is a Java-based mini streaming web application that provides users with an intuitive platform to browse, watch, and manage movies and animations. Built with Java Servlets, JSP, MySQL/MongoDB, and modern frontend technologies, MovieHeram delivers a lightweight yet dynamic streaming experience with user authentication, admin controls, and rich media management features.
 
 🧰 Tech Stack
 Java (JDK 11+)
