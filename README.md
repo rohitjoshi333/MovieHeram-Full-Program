@@ -89,18 +89,6 @@ Access the app:
 Open your browser and navigate to:
 
 http://localhost:8080/movieheram
-📸 Screenshots
-(Add your screenshots below)
-
-Home page with movie listings
-
-Video player interface
-
-User profile and favorites
-
-Admin dashboard overview
-
-Search and filter functionality
 
 🧱 Future Improvements
 Integration with external APIs for movie metadata
