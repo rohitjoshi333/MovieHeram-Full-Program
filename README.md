@@ -36,6 +36,7 @@ movieheram/
 ├── .classpath
 ├── .project
 └── README.md
+
 🚀 Features
 🏠 Home Page with a curated list of available movies and animations
 
